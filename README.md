@@ -55,4 +55,3 @@ If you would like to contribute to this project, please fork the repository and 
 ## Acknowledgements
 - [Original ViT paper](https://arxiv.org/abs/2010.11929)
 - [Deepfake detection dataset](https://www.kaggle.com/datasets/sanikatiwarekar/deep-fake-detection-dfd-entire-original-dataset)
-```
